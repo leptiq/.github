@@ -1,4 +1,4 @@
-<p align="center"><img src="leptiq-mark.svg" alt="Leptiq" width="96"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/leptiq/.github/refs/heads/main/profile/leptiq-mark.svg" alt="Leptiq" width="96"></p>
 
 # Leptiq
 
